@@ -42,7 +42,7 @@ const App = () => {
             </li>
             <li>
               <Link to="/valentine" className="text-red-500 hover:text-red-700 font-semibold transition-colors">
-                Valentine Card
+               Kartu <Ucapan></Ucapan>
               </Link>
             </li>
           </ul>
